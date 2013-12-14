@@ -1,0 +1,9 @@
+Package: sleepR
+Type: Package
+Title: Analysis of sleeping time
+Version: 0.1
+Date: 2013-12-14
+Author: Giovanni Bonafe'
+Maintainer: G.Bonafe' <midable@gmail.com>
+Description: Process data collected with Android app 'Sleepbot'
+License: GPL-2
